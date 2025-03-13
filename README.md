@@ -1,3 +1,6 @@
+![benoitpodwinskicom](https://github.com/user-attachments/assets/c1097d89-8c84-4c97-9203-1890c3d06e97)
+
+
 ### EN - Projects
 - [World42](https://github.com/bpodwinski/World42) - **TypeScript** - WebGL2 project, Quadtree LOD planet built with the **Babylon.js** 3D engine
 - [TerrainCDLODBabylonJs](https://github.com/bpodwinski/TerrainCDLODBabylonJs) - **TypeScript** - WebGL2 project, CDLOD Terrain and Geomorphing built with the **Babylon.js** 3D engine
